@@ -48,3 +48,17 @@
   left: 5px;
   top: -2px;
 }
+
+.lay-badge-md {
+  height: 22px;
+  line-height: 22px;
+  font-size: 14px;
+  padding: 0 8px;
+}
+
+.lay-badge-lg {
+  height: 26px;
+  line-height: 26px;
+  font-size: 16px;
+  padding: 0 10px;
+}
